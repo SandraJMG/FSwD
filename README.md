@@ -1,6 +1,6 @@
 
 
-# FINDING STORIES WITH DATA
+# FINDING STORIES USING DATA
 
 Files accompanying [CIJ course](https://tcij.org/scheduled-training) Finding Stories with Data
 
